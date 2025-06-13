@@ -18,9 +18,11 @@
   "homepage": "https://github.com/mariogalea/qualitymatters-ts-express-mock#readme",
   "description": "",
   "dependencies": {
+    "basic-auth": "^2.0.1",
     "express": "^5.1.0"
   },
   "devDependencies": {
+    "@types/basic-auth": "^1.1.8",
     "@types/express": "^5.0.3",
     "@types/node": "^24.0.1",
     "ts-node": "^10.9.2",
